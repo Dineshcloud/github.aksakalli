@@ -38,9 +38,6 @@ docker run --name todo-nginx -p 8082:80 --link todo-rest:todo-rest -d todo-nginx
 # or just use docker-compose
 # for building and running
 docker-compose up
+ 
 
-```
 
-## License
-
-Released under [the MIT license](LICENSE).
