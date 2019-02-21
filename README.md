@@ -1,6 +1,6 @@
 # Dineshcloud/github.aksakalli/
 TODO Spring Angular
-A demo of my recent tech stack, thanks to JHipster and generator-gulp-angular.
+Using JHipster and generator-gulp-angular.
 
 Technologies
 Spring Boot
